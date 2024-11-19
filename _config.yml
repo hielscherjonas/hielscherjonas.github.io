@@ -24,11 +24,11 @@ author:
   avatar           : "JonasHielscher_Quadrat.JPG"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Human-Centred Security Researchr"
+  bio              : "Human-Centred Security"
   location         : "Germany"
   employer         : "CISPA"
   uri              : # URL
-  email            : "jonas.hielscher@ruhr-uni-bochum.de" 
+  email            : #"jonas.hielscher@ruhr-uni-bochum.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
