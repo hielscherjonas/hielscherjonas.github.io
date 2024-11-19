@@ -22,13 +22,13 @@ repository               : "hielscherjonas/hielscherjonas.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Human-Centred Security Researchr"
+  location         : "Germany"
+  employer         : "CISPA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jonas.hielscher@ruhr-uni-bochum.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
