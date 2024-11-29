@@ -23,6 +23,6 @@ My research interests include:
 * Usable Security
 * Industrial Control System Security
 
-See my [Google Scholar](https://scholar.google.com/citations?user=UvcKg4kAAAAJ) page for an overview of my publications.
+See [Google Scholar](https://scholar.google.com/citations?user=UvcKg4kAAAAJ) for an overview of my publications.
 
 Please reach out, if you would like to collaborate in any of those areas.
