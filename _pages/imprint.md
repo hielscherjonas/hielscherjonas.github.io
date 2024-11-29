@@ -8,16 +8,10 @@ nav: false
 _Note: This page is mandatory for all websites operated by a German person or organization and only available in German._
 
 # Angaben gemäß § 5 TMG:
-Dr. Jonas Hielscher
-CISPA Helmholtz Center for Information Security
-Gebäude D1
-Kaiserstr. 21
-66386 St. Ingbert
-
-
+Dr. Jonas Hielscher, CISPA Helmholtz Center for Information Security, D1, Kaiserstr. 21, 66386 St. Ingbert.
 
 # Verantwortlich iSd § 5 TMG, § 55 RfStV:
-Dr. Jonas Hielscher, CISPA Helmholtz Center for Information Security, D1/2.12, Kaiserstr. 21, 66386 St. Ingbert.
+Dr. Jonas Hielscher, CISPA Helmholtz Center for Information Security, D1, Kaiserstr. 21, 66386 St. Ingbert.
 
 # Haftungsausschluss
 ## Haftung für Inhalte
