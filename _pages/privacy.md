@@ -2,8 +2,7 @@
 layout: page
 title: Privacy
 permalink: /privacy/
-nav: true
-nav_order: 3
+nav: false
 ---
 
 # Privacy Policy 
