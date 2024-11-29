@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PostDoc @CISPA
+subtitle: Postdoc[CISPA](https://cispa.de/en)
 
 profile:
   align: right
@@ -15,12 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I currently work as a Postdoc at [CISPA](https://cispa.de/de) [@MaxLab](https://group.cispa.io/Golla/). I received my PhD from [Ruhr University Bochum](https://informatik.rub.de/) in 2024.
+Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I currently work as a Postdoc at [CISPA](https://cispa.de/en)[@MaxLab](https://group.cispa.io/golla). I received my PhD from [Ruhr University Bochum](https://informatik.rub.de/en/) in 2024.
 
 My research interests include:
-* Human-Centred Security (HCS) research in organizations
-* Economics of cybersecurity
+* Human-Centred Security (HCS) Research in Organizations
+* Economics of Cybersecurity
 * Usable Security
 * Industrial Control System Security
 
-Please reach out to, if you would like to collaborate in any of those areas.
+Please reach out, if you would like to collaborate in any of those areas.
