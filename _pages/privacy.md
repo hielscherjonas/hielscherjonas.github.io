@@ -74,6 +74,29 @@ The website collects a series of general data and information when a data subjec
 When using these general data and information, the website does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the website analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
 
 
+## Third-Party Services and Data Processing
+
+Our website uses the following third-party services to enhance functionality, optimize performance, and deliver content efficiently. These services may process certain data, including but not limited to your IP address, browser type, and other technical information necessary for providing their services:
+
+#### Dimensions.ai
+We use Dimensions.ai to provide content. Dimensions.ai may process anonymized or aggregated data for this purpose. For more information on how Dimensions.ai handles data, please review their [Privacy Policy](https://www.dimensions.ai/privacy-policy).
+
+#### Cloudflare
+Cloudflare is used as a content delivery network (CDN) and security provider to protect our website from malicious activity and improve performance. In this process, Cloudflare may collect data such as IP addresses and request headers. You can find details in the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+
+#### jsDelivr.net
+jsDelivr.net is a content delivery network we use to deliver JavaScript libraries and other assets efficiently. jsDelivr may log data such as IP addresses for operational purposes. For more information, refer to the [jsDelivr Privacy Policy](https://www.jsdelivr.com/terms/privacy-policy).
+
+#### Fastly.net
+Fastly.net is another content delivery network (CDN) used to improve the performance and reliability of our website. Fastly processes certain data, such as your IP address, to optimize content delivery. See the [Fastly Privacy Policy](https://www.fastly.com/privacy) for more details.
+
+#### GitHub Pages
+Our website is hosted on GitHub Pages, a static site hosting service provided by GitHub, Inc. GitHub Pages may process certain data, including your IP address and request details, to serve the website content securely and reliably. For more information, please refer to the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+### Data Usage and Compliance
+
+We only use these services to ensure the functionality, security, and performance of our website. All third-party data processing is governed by their respective privacy policies. Where required, we have entered into Data Processing Agreements (DPAs) with these providers to ensure compliance with applicable data protection laws.
+
 ## Routine erasure and blocking of personal data
 
 The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.
