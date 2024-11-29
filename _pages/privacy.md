@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy
+permalink: /privacy/
+---
+
 # Privacy Policy 
 
 ## 1. Definitions

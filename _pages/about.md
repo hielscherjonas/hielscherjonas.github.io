@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: default
 title: about
 permalink: /
-subtitle: Postdoc[CISPA](https://cispa.de/en)
+subtitle: Postdoc@CISPA
 
 profile:
   align: right

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Impressum
+permalink: /imprint/
+---
+
 _Note: This page is mandatory for all websites operated by a German person or organization and only available in German._
 
 # Angaben gemäß § 5 TMG:
