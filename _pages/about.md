@@ -24,6 +24,6 @@ My research interests include:
 * Industrial Control System Security
 
 
-My publications are regularly published at top-tier security and computer science venues, such as USENIX Security, IEEE SP, ACM CCS, ISOC NDSS, and ACM CHI. See [Google Scholar](https://scholar.google.com/citations?user=UvcKg4kAAAAJ) for an overview of my publications.
+My research is regularly published at top-tier security and computer science venues, such as USENIX Security, IEEE SP, ACM CCS, ISOC NDSS, and ACM CHI. See [Google Scholar](https://scholar.google.com/citations?user=UvcKg4kAAAAJ) for an overview of my publications.
 
 Please [reach out](https://group.cispa.io/golla/people.html), if you would like to collaborate in any of those areas.
