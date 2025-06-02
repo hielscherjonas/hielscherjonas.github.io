@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming TT Faculty@CISPA
+subtitle: TT Faculty@CISPA
 
 profile:
   align: right
@@ -30,7 +30,7 @@ My research is regularly published at top-tier security and computer science ven
 Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to collaborate in any of those areas.
 
 ## News
-* __May 2025__: I accepted CISPA's offer and will transition to my __new role as [Tenure Track Faculty](https://cispa.de/de/people#faculty)__ later this year. 🥳
+* __June 2025__: I transitioned to my new role as [Tenure Track Faculty](https://cispa.de/de/people#faculty)__ at CISPA. 🥳
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.👩🏼‍💻
 
 ## Academic Service (Excerpt)
