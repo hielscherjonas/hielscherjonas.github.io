@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I currently work as a Postdoc at [CISPA](https://cispa.de/en)[@MaxLab](https://group.cispa.io/golla). I received my PhD from [Ruhr University Bochum](https://informatik.rub.de/en/).
+Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I lead the __[CHESSLab](https://group.cispa.io/hielscher)__ @[CISPA](https://cispa.de/en). Previously, I worked as a Postdoc at [MaxLab](https://group.cispa.io/golla). I received my PhD from [Ruhr University Bochum](https://informatik.rub.de/en/).
 
 My research interests include:
 * Human-Centred Security (HCS) Research in Organizations
