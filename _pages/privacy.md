@@ -79,7 +79,7 @@ When using these general data and information, the website does not draw any con
 Our website uses the following third-party services to enhance functionality, optimize performance, and deliver content efficiently. These services may process certain data, including but not limited to your IP address, browser type, and other technical information necessary for providing their services:
 
 #### Dimensions.ai
-We use Dimensions.ai to provide content. Dimensions.ai may process anonymized or aggregated data for this purpose. For more information on how Dimensions.ai handles data, please review their [Privacy Policy](https://www.dimensions.ai/privacy-policy).
+We use Dimensions.ai to provide content. Dimensions.ai may process anonymized or aggregated data for this purpose. For more information on how Dimensions.ai handles data, please review their [Privacy Policy](https://www.dimensions.ai/privacy/).
 
 #### Cloudflare
 Cloudflare is used as a content delivery network (CDN) and security provider to protect our website from malicious activity and improve performance. In this process, Cloudflare may collect data such as IP addresses and request headers. You can find details in the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
