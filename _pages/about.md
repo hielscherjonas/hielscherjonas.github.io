@@ -30,6 +30,7 @@ My research is regularly published at top-tier security and computer science ven
 Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to collaborate in any of those areas.
 
 ## News
+* __July 2025__: One paper got accepted at [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/). 🚀
 * __June 2025__: I transitioned to my new role as __[Tenure Track Faculty](https://cispa.de/de/people#faculty)__ at CISPA. 🥳
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.👩🏼‍💻
 
