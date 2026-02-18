@@ -30,6 +30,7 @@ My research is regularly published at top-tier security and computer science ven
 Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to collaborate in any of those areas.
 
 ## News
+* __February 2026__: I gave two guest lectures at the [WITS University in Johannesburg](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7427364103725367296-XABN) and at the [Cape Town University](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7429546628811796480-f94I).
 * __October 2025__: I was recognized as a [_top reviewer_ at ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/awards/)
 * __October 2025__: Our __[CHESSLab Team](https://group.cispa.io/hielscher/team/)__ has already grown to seven researchers.
 * __July 2025__: One paper got accepted at [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/).
