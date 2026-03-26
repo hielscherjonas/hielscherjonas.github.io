@@ -38,18 +38,22 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.
 
 ## Academic Service (Excerpt)
-* 2026: IEEE S&P PC 
+* 2026: IEEE S&P PC, USENIX SOUPS PC 
 * 2025: IEEE S&P PC, ACM CCS PC, USENIX SOUPS PC 
 * 2024: USENIX SOUPS Poster PC 
 * 2023: EuroUSEC PC 
 * 2022: EuroUSEC PC
 
+## Supervision (PhD)
+* __Maike__, From October 2025
+* __Christina__, From August 2026
 
-## Supervision
-* __Palash__. 2025, _Currently Running_. Topic: TBA 
-* __Ida__. 2025, _Currently Running_. Topic: TBA 
-* __Yashodhara__. 2025, _Currently Running_. Topic: TBA 
-* __Rian__. 2025, _Currently Running_. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges 
+## Supervision (M.Sc. & B.Sc)
+* __Muhammad__. 2025, _Currently Running_.
+* __Palash__. 2025, _Currently Running_.  
+* __Ida__. 2025, _Currently Running_.
+* __Yashodhara__. 2025, _Currently Running_.
+* __Rian__. 2025, _Completed_, M.Sc. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges 
 * __Heinz__. 2025, _Completed_, M.Sc. Topic: Empirical Investigation of the Socio-Cultural Environment of Secure Operational Technology Software Development 
 * __Moritz__. 2024, _Completed_, M.Sc. Topic:  Restructuring of an IT Security Organisation and Its Communication Issues 
 * __Thomas__. 2023, _Completed_, M.Sc. Topic: Caring about OT Security - An Interview Study on the Security Perceptions of OT workforce 
