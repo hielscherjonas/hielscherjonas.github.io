@@ -30,7 +30,8 @@ My research is regularly published at top-tier security and computer science ven
 Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to collaborate in any of those areas.
 
 ## News
-* __April 2026__: One [Extended Abstract accepted and presented at ACM CHI 2026 in Barcelona](https://doi.org/10.60882/cispa.31834648). In this abstract we aim to make an argument against the spread of Fear Uncertainty and Doubt in Cybersecurity, in the case of public WiFi security.
+* __April 2026__: Our __seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/)__ was recognized as a __Busy Beaver Runners Up__ (one of the top three CS seminars at Saarland University).
+* __April 2026__: One [Extended Abstract accepted and presented at ACM CHI 2026 in Barcelona](https://doi.org/10.60882/cispa.31834648). In this abstract, we aim to argue against the spread of Fear, Uncertainty, and Doubt in Cybersecurity, specifically regarding public WiFi security.
 * __February 2026__: I gave two guest lectures at the [WITS University in Johannesburg](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7427364103725367296-XABN) and at the [Cape Town University](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7429546628811796480-f94I).
 * __October 2025__: I was recognized as a [_top reviewer_ at ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/awards/)
 * __October 2025__: Our __[CHESSLab Team](https://group.cispa.io/hielscher/team/)__ has already grown to seven researchers.
@@ -39,6 +40,7 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.
 
 ## Academic Service (Excerpt)
+* 2027: USENIX Security PC
 * 2026: IEEE S&P PC, USENIX SOUPS PC 
 * 2025: IEEE S&P PC, ACM CCS PC, USENIX SOUPS PC 
 * 2024: USENIX SOUPS Poster PC 
@@ -47,12 +49,12 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 
 ## Supervision (PhD)
 * __Maike__, From October 2025
-* __Christina__, From August 2026
+* __Christina__, From September 2026
 
 ## Supervision (M.Sc. & B.Sc)
+* __Jonas S.__. 2026, _Currently Running_.
 * __Muhammad__. 2025, _Currently Running_.
 * __Palash__. 2025, _Currently Running_.  
-* __Ida__. 2025, _Currently Running_.
 * __Yashodhara__. 2025, _Currently Running_.
 * __Rian__. 2025, _Completed_, M.Sc. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges 
 * __Heinz__. 2025, _Completed_, M.Sc. Topic: Empirical Investigation of the Socio-Cultural Environment of Secure Operational Technology Software Development 
