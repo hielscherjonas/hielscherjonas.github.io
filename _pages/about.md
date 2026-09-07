@@ -40,7 +40,6 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.
 
 ## Academic Service (Excerpt)
-* 2027: USENIX Security PC
 * 2026: IEEE S&P PC, USENIX SOUPS PC 
 * 2025: IEEE S&P PC, ACM CCS PC, USENIX SOUPS PC 
 * 2024: USENIX SOUPS Poster PC 
