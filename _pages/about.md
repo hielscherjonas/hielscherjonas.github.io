@@ -30,6 +30,8 @@ My research is regularly published at top-tier security and computer science ven
 Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to collaborate in any of those areas.
 
 ## News
+* __October 2026__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec26/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this winter term.
+* __September 2026__: One [Paper accepted at ACM CCS '26](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html).
 * __April 2026__: Our __seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/)__ was recognized as a __Busy Beaver Runners Up__ (one of the top three CS seminars at Saarland University).
 * __April 2026__: One [Extended Abstract accepted and presented at ACM CHI 2026 in Barcelona](https://doi.org/10.60882/cispa.31834648). In this abstract, we aim to argue against the spread of Fear, Uncertainty, and Doubt in Cybersecurity, specifically regarding public WiFi security.
 * __February 2026__: I gave two guest lectures at the [WITS University in Johannesburg](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7427364103725367296-XABN) and at the [Cape Town University](https://www.linkedin.com/posts/cispa_cispa-in-south-africa-visiting-the-university-activity-7429546628811796480-f94I).
