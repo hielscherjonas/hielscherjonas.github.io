@@ -15,10 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I lead the __[CHESSLab](https://group.cispa.io/hielscher)__ @[CISPA](https://cispa.de/en). Previously, I worked as a Postdoc at [MaxLab](https://group.cispa.io/golla). I received my PhD from [Ruhr University Bochum](https://informatik.rub.de/en/).
+Hey, I am Jonas, a cybersecurity researcher specializing in __Human-Centered Security__. I lead the __[CHESSLab](https://group.cispa.io/hielscher)__ @[CISPA](https://cispa.de/en).
 
 My research interests include:
 * Human-Centred Security (HCS) Research in Organizations
+* Empirical Cybersecurity
 * Economics of Cybersecurity
 * Socio-Technical System Security
 * Usable Security
@@ -42,7 +43,7 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 * __February 2025__: I will teach the seminar [Cybersecurity in Organizational Practice](https://cms.cispa.saarland/orgsec25/) at [Saarland University (UdS)](https://www.uni-saarland.de/en/department/computer-science.html) this summer term.
 
 ## Academic Service (Excerpt)
-* 2026: IEEE S&P PC, USENIX SOUPS PC 
+* 2026: IEEE S&P PC, USENIX SOUPS PC, ACM CHI Reviewer
 * 2025: IEEE S&P PC, ACM CCS PC, USENIX SOUPS PC 
 * 2024: USENIX SOUPS Poster PC 
 * 2023: EuroUSEC PC 
@@ -51,12 +52,14 @@ Please [reach out](mailto:firstname.lastname@cispa.de), if you would like to col
 ## Supervision (PhD)
 * __Maike__, From October 2025
 * __Christina__, From September 2026
+* __Rian__, From November 2026
 
 ## Supervision (M.Sc. & B.Sc)
-* __Jonas S.__. 2026, _Currently Running_.
-* __Muhammad__. 2025, _Currently Running_.
-* __Palash__. 2025, _Currently Running_.  
-* __Yashodhara__. 2025, _Currently Running_.
+* __Olima__. 2027, _Currently Running_
+* __Jonas S.__. 2026, _Currently Running_, Topic: State of Usable Security Education At Universities
+* __Muhammad__. 2025, _Currently Running_, Topic: False Positives and Performance Expectations in Pakistani Security Operations Centers
+* __Palash__. 2026, _Completed_, M.Sc. Topic: Stakeholders’ Perception: Design, Implementation & Integration Challenges of Business Continuity Planning in OT
+* __Yashodhara__. 2026, _Completed_, M.Sc. Topic: Perspectives on renewing the ISO 27001 Certification: An Investigative Study
 * __Rian__. 2025, _Completed_, M.Sc. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges 
 * __Heinz__. 2025, _Completed_, M.Sc. Topic: Empirical Investigation of the Socio-Cultural Environment of Secure Operational Technology Software Development 
 * __Moritz__. 2024, _Completed_, M.Sc. Topic:  Restructuring of an IT Security Organisation and Its Communication Issues 
